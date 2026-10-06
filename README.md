@@ -13,3 +13,5 @@ Here is where I record my journey to the purples
 I forgot to screenshot the banners, the URL one is not listed on the trophy lists on my juice shop nor the logic flaw, tomorrow I'll check if I have to update the thing or something. I have no idea what I'm doing so far but this is fun.
 
 **Next:** Burp Suite + API hacking
+
+ yeah I sort of dropped this, maybe I'll erase this, maybe I'll continue it who knows?
