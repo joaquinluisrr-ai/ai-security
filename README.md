@@ -3,7 +3,7 @@ Here is where I record my journey to the purples
 # AI Purple Team Engineer Journey
 I've started with the OWASP Juice Shop but I've pushed it for later, since I find AI security practices more interesting.
 ## First I've built a Sanitizer using python normalizers targeting obfuscation-based vulnerabilities, this one sits right in front of the LLM. Here is a larger readme. 
-# Añambembuy — Prompt Sanitizer (Day 1)
+# Añambembuy — Prompt Sanitizer
 
 ## Problem
 
@@ -134,8 +134,10 @@ solution against Prompt Injection. Known limitations:
 
 - [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 - [Unicode Normalization Forms](https://unicode.org/reports/tr15/)
+
+  
 Then I've built a classifier using a dataclass to classify and display the threat rating of specific prompts, using duckdb datasets to test it, documenting the progression of adding more and more rules. Here is the full readme.
-# Heuristic Prompt Classifier (Day 2)
+# Heuristic Prompt Classifier
 
 ## Problem
 
