@@ -1,5 +1,5 @@
 # AI Purple Team Engineer Journey
-I've started with the OWASP Juice Shop but I've pushed it for later, since I find AI security practices more interesting.
+AI Security & LLM Safety > A repository dedicated to exploring security risks and defensive mechanisms in artificial intelligence systems. Focused on prompt injection analysis, jailbreak detection, AI agent auditing, data privacy, and implementing robust guardrails for LLM integrations.
 ## First I've built a Sanitizer using python normalizers targeting obfuscation-based vulnerabilities, this one sits right in front of the LLM. Here is a larger readme. 
 # Añambembuy — Prompt Sanitizer
 
