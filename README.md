@@ -1,5 +1,3 @@
-# Joaquin-ai-purple-team-training
-Here is where I record my journey to the purples
 # AI Purple Team Engineer Journey
 I've started with the OWASP Juice Shop but I've pushed it for later, since I find AI security practices more interesting.
 ## First I've built a Sanitizer using python normalizers targeting obfuscation-based vulnerabilities, this one sits right in front of the LLM. Here is a larger readme. 
